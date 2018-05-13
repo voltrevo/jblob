@@ -8,8 +8,13 @@
   },
   "author": "",
   "devDependencies": {
+    "@types/node": "^10.0.8",
+    "bs58check": "^2.1.1",
     "ts-node": "^6.0.3",
     "tslint": "^5.10.0",
     "typescript": "^2.8.3"
+  },
+  "dependencies": {
+    "msgpack-lite": "^0.1.26"
   }
 }
